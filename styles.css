@@ -1,0 +1,24 @@
+
+h1{
+  color: blue;
+  text-align: center;
+  padding-top: 100px;
+  font-family: arial, sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+}
+h2 {
+  color: red;
+}
+li {
+  color: red;
+}
+#head {
+  border: 8px dotted blue;
+}
+#top {
+  font-size: 28px;
+}
+.name {
+  font-size: 27px;
+}
